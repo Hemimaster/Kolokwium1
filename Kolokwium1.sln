@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kolokwium1", "Kolokwium1.csproj", "{DB3371EC-0C97-4D0F-BAB0-FC2DF2F1A872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3371EC-0C97-4D0F-BAB0-FC2DF2F1A872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3371EC-0C97-4D0F-BAB0-FC2DF2F1A872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3371EC-0C97-4D0F-BAB0-FC2DF2F1A872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3371EC-0C97-4D0F-BAB0-FC2DF2F1A872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
